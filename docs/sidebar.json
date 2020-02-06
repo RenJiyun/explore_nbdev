@@ -1,6 +1,7 @@
 {
   "explore_nbdev": {
     "Overview": "/",
-    "core": "/core"
+    "core": "/core",
+    "test": "/test"
   }
 }
