@@ -1,6 +1,6 @@
 {
   "explore_nbdev": {
     "Overview": "/",
-    "module name here": "/core"
+    "core": "/core"
   }
 }
